@@ -13,8 +13,8 @@ PLAYER_IDS = {
 DIR = {
     'N':(-1,0),
     'S':(1,0),
-    'E':(0,-1),
-    'W':(0,1)
+    'E':(0,1),
+    'W':(0,-1)
 }
 
 def strToState(strState):
@@ -85,8 +85,8 @@ def generateSuccessorsForPlayer(player, state):
 def strToMove(moveStr, player):
     moveList = tuple(moveStr[:3])
     moveArr = np.zeros((7,7))
-    moveArr[int(moveList[0])-1, int(moveList[1])-1] = -1*player
-    newPos = np.add(np.array(moveList[:2]).astype(int), np.array(DIR[moveList[2]]))
+    moveArr[int(moveList[1])-1, int(moveList[0])-1] = -1*player
+    newPos = np.add(np.array(moveList[1],moveList[0]).astype(int), np.array(DIR[moveList[2]]))
     moveArr[newPos[0]-1,newPos[1]-1] = player
     return moveArr
 
