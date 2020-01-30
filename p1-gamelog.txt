@@ -1,0 +1,225 @@
+waiting for game : mytestgame
+ServerTurn - Reading :   white
+
+Reading :  44W
+
+Wrote/Response 44W
+ 
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+ O, ,X, , , , 
+  , , , ,O, ,X
+  , , , ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  1  Player :  1  LocalTurn : True  -------
+Reading :  33S
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+ O, , , , , , 
+  , ,X, ,O, ,X
+  , , , ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  2  Player :  -1  LocalTurn : False  -------
+Reading :  31S
+
+Wrote/Response 31S
+ 
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+ O, ,X, ,O, ,X
+  , , , ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  3  Player :  1  LocalTurn : True  -------
+Reading :  43S
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+ O, , , ,O, ,X
+  , ,X, ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  4  Player :  -1  LocalTurn : False  -------
+Reading :  41S
+
+Wrote/Response 41S
+ 
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+ O, ,X, ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  5  Player :  1  LocalTurn : True  -------
+Reading :  47N
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+ O, ,X, ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  6  Player :  -1  LocalTurn : False  -------
+Reading :  51S
+
+Wrote/Response 51S
+ 
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+  , ,X, ,O,X,X
+ O, ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  7  Player :  1  LocalTurn : True  -------
+Reading :  37S
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+  , ,X, ,O,X,X
+ O, ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  8  Player :  -1  LocalTurn : False  -------
+Reading :  61S
+
+Wrote/Response 61S
+ 
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+  , ,X, ,O,X,X
+  , ,O, , ,O,X
+ O, , ,X,O, , 
+----- Move :  9  Player :  1  LocalTurn : True  -------
+Reading :  47N
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+  , ,X, ,O,X,X
+  , ,O, , ,O,X
+ O, , ,X,O, , 
+----- Move :  10  Player :  -1  LocalTurn : False  -------
+Reading :  55E
+
+Wrote/Response 55E
+ 
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+  , ,X,O, ,X,X
+  , ,O, , ,O,X
+ O, , ,X,O, , 
+----- Move :  11  Player :  1  LocalTurn : True  -------
+Reading :  37S
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+  , ,X,O, ,X,X
+  , ,O, , ,O,X
+ O, , ,X,O, , 
+----- Move :  12  Player :  -1  LocalTurn : False  -------
+Reading :  54S
+
+Wrote/Response 54S
+ 
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+  , ,X, , ,X,X
+  , ,O,O, ,O,X
+ O, , ,X,O, , 
+----- Move :  13  Player :  1  LocalTurn : True  -------
+Reading :  47N
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+  , ,X, , ,X,X
+  , ,O,O, ,O,X
+ O, , ,X,O, , 
+----- Move :  14  Player :  -1  LocalTurn : False  -------
+Reading :  45S
+
+Wrote/Response 45S
+ 
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , , , , 
+  , ,X, ,O,X,X
+  , ,O,O, ,O,X
+ O, , ,X,O, , 
+----- Move :  15  Player :  1  LocalTurn : True  -------
+Reading :  37S
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , ,X, ,O,X,X
+  , ,O,O, ,O,X
+ O, , ,X,O, , 
+----- Move :  16  Player :  -1  LocalTurn : False  -------
+Reading :  55S
+
+Wrote/Response 55S
+ 
+
+------ Game State -----
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , ,X, , ,X,X
+  , ,O,O,O,O,X
+ O, , ,X,O, , 
+----- Move :  17  Player :  1  LocalTurn : True  -------
+======= Winner !! == Player : 1
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , ,X, , ,X,X
+  , ,O,O,O,O,X
+ O, , ,X,O, , 

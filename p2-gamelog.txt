@@ -1,0 +1,269 @@
+waiting for game : mytestgame
+ServerTurn - Reading :   black
+
+  , , , , , , 
+  , , , , , , 
+ O, ,X, , , , 
+  , , ,O, , ,X
+  , , , ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  1  Player :  1  LocalTurn : False  -------
+Reading :  44W
+
+  , , , , , , 
+  , , , , , , 
+ O, ,X, , , , 
+  , , , ,O, ,X
+  , , , ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  2  Player :  -1  LocalTurn : True  -------
+Wrote : 33S
+  , , , , , , 
+  , , , , , , 
+ O, , , , , , 
+  , ,X, ,O, ,X
+  , , , ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  3  Player :  1  LocalTurn : False  -------
+Reading :  33S
+
+Attempting to move wrong piece : 33S
+
+  , , , , , , 
+  , , , , , , 
+ O, , , , , , 
+  , ,X, ,O, ,X
+  , , , ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  3  Player :  1  LocalTurn : False  -------
+Reading :  31S
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+ O, ,X, ,O, ,X
+  , , , ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  4  Player :  -1  LocalTurn : True  -------
+Wrote : 43S
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+ O, , , ,O, ,X
+  , ,X, ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  5  Player :  1  LocalTurn : False  -------
+Reading :  43S
+
+Attempting to move wrong piece : 43S
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+ O, , , ,O, ,X
+  , ,X, ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  5  Player :  1  LocalTurn : False  -------
+Reading :  41S
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+ O, ,X, ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  6  Player :  -1  LocalTurn : True  -------
+Wrote : 47N
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+ O, ,X, ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  7  Player :  1  LocalTurn : False  -------
+Reading :  47N
+
+Attempting to move wrong piece : 47N
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+ O, ,X, ,O,X,X
+  , ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  7  Player :  1  LocalTurn : False  -------
+Reading :  51S
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+  , ,X, ,O,X,X
+ O, ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  8  Player :  -1  LocalTurn : True  -------
+Wrote : 37S
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+  , ,X, ,O,X,X
+ O, ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  9  Player :  1  LocalTurn : False  -------
+Reading :  37S
+
+Attempting to move wrong piece : 37S
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+  , ,X, ,O,X,X
+ O, ,O, , ,O,X
+  , , ,X,O, , 
+----- Move :  9  Player :  1  LocalTurn : False  -------
+Reading :  61S
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+  , ,X, ,O,X,X
+  , ,O, , ,O,X
+ O, , ,X,O, , 
+----- Move :  10  Player :  -1  LocalTurn : True  -------
+Wrote : 47N
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+  , ,X, ,O,X,X
+  , ,O, , ,O,X
+ O, , ,X,O, , 
+----- Move :  11  Player :  1  LocalTurn : False  -------
+Reading :  47N
+
+Attempting to move wrong piece : 47N
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+  , ,X, ,O,X,X
+  , ,O, , ,O,X
+ O, , ,X,O, , 
+----- Move :  11  Player :  1  LocalTurn : False  -------
+Reading :  55E
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+  , ,X,O, ,X,X
+  , ,O, , ,O,X
+ O, , ,X,O, , 
+----- Move :  12  Player :  -1  LocalTurn : True  -------
+Wrote : 37S
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+  , ,X,O, ,X,X
+  , ,O, , ,O,X
+ O, , ,X,O, , 
+----- Move :  13  Player :  1  LocalTurn : False  -------
+Reading :  37S
+
+Attempting to move wrong piece : 37S
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+  , ,X,O, ,X,X
+  , ,O, , ,O,X
+ O, , ,X,O, , 
+----- Move :  13  Player :  1  LocalTurn : False  -------
+Reading :  54S
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , ,O, ,X
+  , ,X, , ,X,X
+  , ,O,O, ,O,X
+ O, , ,X,O, , 
+----- Move :  14  Player :  -1  LocalTurn : True  -------
+Wrote : 47N
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+  , ,X, , ,X,X
+  , ,O,O, ,O,X
+ O, , ,X,O, , 
+----- Move :  15  Player :  1  LocalTurn : False  -------
+Reading :  47N
+
+Attempting to move wrong piece : 47N
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , ,O, , 
+  , ,X, , ,X,X
+  , ,O,O, ,O,X
+ O, , ,X,O, , 
+----- Move :  15  Player :  1  LocalTurn : False  -------
+Reading :  45S
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , , , , , , 
+  , ,X, ,O,X,X
+  , ,O,O, ,O,X
+ O, , ,X,O, , 
+----- Move :  16  Player :  -1  LocalTurn : True  -------
+Wrote : 37S
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , ,X, ,O,X,X
+  , ,O,O, ,O,X
+ O, , ,X,O, , 
+----- Move :  17  Player :  1  LocalTurn : False  -------
+Reading :  37S
+
+Attempting to move wrong piece : 37S
+
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , ,X, ,O,X,X
+  , ,O,O, ,O,X
+ O, , ,X,O, , 
+----- Move :  17  Player :  1  LocalTurn : False  -------
+Reading :  55S
+
+======= Winner !! == Player : 1
+  , , , , , , 
+  , , , , , , 
+  , , , , , , 
+  , , , , , ,X
+  , ,X, , ,X,X
+  , ,O,O,O,O,X
+ O, , ,X,O, , 
